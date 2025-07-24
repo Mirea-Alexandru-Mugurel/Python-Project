@@ -1,4 +1,6 @@
-# 🧠 Async Math Microservice
+# 🧠 Async Math Microservice Python OOP project
+
+## @ Team: Alexandru Mirea n' Chanchian Armin Andrei
 
 ## 📌 Overview
 
@@ -73,8 +75,6 @@ Each request is persisted in a **SQLite** database, logs are saved and made avai
 ---
 
 ## 🚀 How to Run
-
-Make sure Python 3.10+ is installed, then run:
 
 ```bash
 pip install -r requirements.txt && uvicorn main:app --reload
