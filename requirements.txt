@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+aiosqlite
+click
+flake8
+isort
+pytest
+tortoise
+python-dotenv
